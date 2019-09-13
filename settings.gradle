@@ -1,0 +1,21 @@
+rootProject.name = 'sample'
+
+include('AbstractFactory',
+        'Adapter',
+        'Bridge',
+        'Builder',
+        'ChainOfResponsibility',
+        'Command',
+        'Composite',
+        'Decorator',
+        'FactoryMethod',
+        'Flyweight',
+        'Mediator',
+        'Memento',
+        'Observer',
+        'Prototype',
+        'Proxy',
+        'Singleton',
+        'State', 'Strategy',
+        'TemplateMethod',
+        'Visitor')
